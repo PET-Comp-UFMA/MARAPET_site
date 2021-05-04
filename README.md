@@ -30,5 +30,8 @@ Localização           | João D.      | Em desenvolvimento
   text-align: justify;
   }
   ~~~~
-
+  * Alterado cor do botão de back-to-top.
+* Página Informações-Sobre:
+  * O link de informações no menu redireciano para página sobre.
+  * Inserido o contéudo e as imagens dos grupos pet.
 
