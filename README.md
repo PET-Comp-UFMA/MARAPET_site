@@ -30,8 +30,9 @@ Localização           | João D.      | Em desenvolvimento
   text-align: justify;
   }
   ~~~~
-  * Alterado cor do botão de back-to-top.
+ * Alterado cor do botão de back-to-top.
+ * Alterado link dos logos do pet ufma para links para o site da ufma. 
 * Página Informações-Sobre:
-  * O link de informações no menu redireciano para página sobre.
-  * Inserido o contéudo e as imagens dos grupos pet.
-
+ * O link de informações no menu redireciano para página sobre.
+ * Inserido o contéudo e as imagens dos grupos pet.
+ * Alterado tamanho das imagens dos pet.
