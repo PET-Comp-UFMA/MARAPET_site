@@ -7,11 +7,8 @@ Marapet V
 
 Página                | Membro       | Estado
 --------------------- | ------------ | ------
-Home                  | Matheus L.   | Em desenvolvimento
-Chamadas de Trabalhos | Iago V.      | Em desenvolvimento
-Local                 | Kennedy A.   | Em desenvolvimento
-Comissão Organizadora | Kennedy A.   | Em desenvolvimento
-Localização           | João D.      | Em desenvolvimento
+Home                  | Matheus L.   | Finalizado
+Sobre                 | Matheus L.   | Finalizado
 
 
 ### Data: **04/05/2021**
