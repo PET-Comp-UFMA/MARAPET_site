@@ -103,3 +103,14 @@ img.displayed {
     margin-top: 40px;
     margin-bottom: 20px;
 }
+
+/* Seção de programação*/
+
+tr td p{
+    text-align: center;
+}
+
+.shortcolumn {
+    width: 40%;
+}
+
