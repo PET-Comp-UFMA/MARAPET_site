@@ -1560,6 +1560,7 @@ th {
   width: 110px;
   height: 35px;
   border-radius: 8px;
+  transition: .5s;
 }
 
 .btn-subscription:hover {
