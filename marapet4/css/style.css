@@ -1550,6 +1550,7 @@ th {
 
 .btn-subscription {
   border: none;
+  color: #fff;
   background: #DA0100;
   display: flex;
   justify-content: center;
@@ -1557,15 +1558,36 @@ th {
   text-decoration: none;
   padding: 4px;
   width: 110px;
+  height: 35px;
+  border-radius: 8px;
+}
+
+.btn-subscription:hover {
+  border: none;
+  background: #ab0909;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+  text-decoration: none;
+  padding: 4px;
+  width: 110px;
+  height: 35px;
+  border-radius: 8px;
 }
 
 .btn-subscription-text {
-  background: #DA0100;
   color: #fff;
   font-family: 'Raleway';
   font-size: 16px;
   text-decoration: none;
 }
+
+
+
+
+
+
 
 /*--------------------------------------------------------------
 # Footer
