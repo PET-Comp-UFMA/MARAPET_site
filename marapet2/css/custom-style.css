@@ -115,9 +115,12 @@ tr td p{
 }
 
 .datecolumnsize{
-    width: 37vh;
+    width: 38vh;
 }
 
+table tbody tr th{
+    vertical-align: middle;
+}
 
 
 
