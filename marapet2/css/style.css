@@ -1537,6 +1537,13 @@ th {
   text-align: center;
 }
 
+.name-pr, .price-pr , .add-pr {
+  border: 2px solid #6ec5ff;;
+  font-weight: 300;
+  padding: 4px;
+  text-align: center;
+}
+
 .btn-subscription {
   border: none;
   background: #3C4858;
